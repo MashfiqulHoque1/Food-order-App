@@ -1,0 +1,43 @@
+com.android.foodorderapp-fragment-1.5.4-0 C:\Users\Mashf\.gradle\caches\8.9\transforms\015fdd5b4dda49db177c662da9125147\transformed\fragment-1.5.4\res
+com.android.foodorderapp-jetified-profileinstaller-1.4.0-1 C:\Users\Mashf\.gradle\caches\8.9\transforms\02d15a6718c96c0c4b2b5e5c11b95502\transformed\jetified-profileinstaller-1.4.0\res
+com.android.foodorderapp-recyclerview-1.1.0-2 C:\Users\Mashf\.gradle\caches\8.9\transforms\0ac71f427324efba7c363ae03cd4043f\transformed\recyclerview-1.1.0\res
+com.android.foodorderapp-jetified-appcompat-resources-1.7.0-3 C:\Users\Mashf\.gradle\caches\8.9\transforms\237f7c6a12826aca916bbd5ffe5ddf0f\transformed\jetified-appcompat-resources-1.7.0\res
+com.android.foodorderapp-jetified-core-common-2.0.3-4 C:\Users\Mashf\.gradle\caches\8.9\transforms\2d627438b0f8063d07d9512f55172f35\transformed\jetified-core-common-2.0.3\res
+com.android.foodorderapp-jetified-startup-runtime-1.1.1-5 C:\Users\Mashf\.gradle\caches\8.9\transforms\2eba1b50eeb3ba3773ef80ddc58e490f\transformed\jetified-startup-runtime-1.1.1\res
+com.android.foodorderapp-core-1.13.0-6 C:\Users\Mashf\.gradle\caches\8.9\transforms\30753a84859c6e8e63704c153aeee7aa\transformed\core-1.13.0\res
+com.android.foodorderapp-jetified-play-services-base-18.0.1-7 C:\Users\Mashf\.gradle\caches\8.9\transforms\43862e3928f48ee633af84279a1654af\transformed\jetified-play-services-base-18.0.1\res
+com.android.foodorderapp-material-1.12.0-8 C:\Users\Mashf\.gradle\caches\8.9\transforms\48b869c93d81910653192cf035b6c894\transformed\material-1.12.0\res
+com.android.foodorderapp-lifecycle-viewmodel-2.6.2-9 C:\Users\Mashf\.gradle\caches\8.9\transforms\50e5d51d0bba8f568a1491a326ff083d\transformed\lifecycle-viewmodel-2.6.2\res
+com.android.foodorderapp-jetified-lifecycle-process-2.6.2-10 C:\Users\Mashf\.gradle\caches\8.9\transforms\59440b1762fa456be21357287c911c19\transformed\jetified-lifecycle-process-2.6.2\res
+com.android.foodorderapp-jetified-emoji2-1.3.0-11 C:\Users\Mashf\.gradle\caches\8.9\transforms\5cad3c6250f719fa35f5262f5d31702e\transformed\jetified-emoji2-1.3.0\res
+com.android.foodorderapp-jetified-savedstate-1.2.1-12 C:\Users\Mashf\.gradle\caches\8.9\transforms\5dd6bbca645410000cf2f157b5966f15\transformed\jetified-savedstate-1.2.1\res
+com.android.foodorderapp-jetified-viewpager2-1.0.0-13 C:\Users\Mashf\.gradle\caches\8.9\transforms\6428b763c9c3078c2e92dad7653a7ca5\transformed\jetified-viewpager2-1.0.0\res
+com.android.foodorderapp-constraintlayout-2.2.0-14 C:\Users\Mashf\.gradle\caches\8.9\transforms\6894b7776a6381711fa85f76fdd80a5c\transformed\constraintlayout-2.2.0\res
+com.android.foodorderapp-jetified-play-services-basement-18.4.0-15 C:\Users\Mashf\.gradle\caches\8.9\transforms\6a2bedea29eed15b88659810a1a71b47\transformed\jetified-play-services-basement-18.4.0\res
+com.android.foodorderapp-jetified-activity-1.8.0-16 C:\Users\Mashf\.gradle\caches\8.9\transforms\6ea816ce92858be5aa036fdad5b303ea\transformed\jetified-activity-1.8.0\res
+com.android.foodorderapp-jetified-glide-4.11.0-17 C:\Users\Mashf\.gradle\caches\8.9\transforms\6f3aa40d74f01f73629e2f3ff4be7b34\transformed\jetified-glide-4.11.0\res
+com.android.foodorderapp-jetified-credentials-play-services-auth-1.2.0-rc01-18 C:\Users\Mashf\.gradle\caches\8.9\transforms\7070c2c1d58844d9734d2257ef533681\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.android.foodorderapp-jetified-firebase-common-21.0.0-19 C:\Users\Mashf\.gradle\caches\8.9\transforms\780165a9006aec43dc68dca72a1e043f\transformed\jetified-firebase-common-21.0.0\res
+com.android.foodorderapp-coordinatorlayout-1.1.0-20 C:\Users\Mashf\.gradle\caches\8.9\transforms\7ae99df28ac59d549454f3289d75d4ee\transformed\coordinatorlayout-1.1.0\res
+com.android.foodorderapp-jetified-annotation-experimental-1.4.0-21 C:\Users\Mashf\.gradle\caches\8.9\transforms\7b8e5fab28acdf99bef2a9f22e91a9a3\transformed\jetified-annotation-experimental-1.4.0\res
+com.android.foodorderapp-jetified-emoji2-views-helper-1.3.0-22 C:\Users\Mashf\.gradle\caches\8.9\transforms\891c95e88a34553326fb1aee3e751e0f\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.android.foodorderapp-jetified-lifecycle-viewmodel-savedstate-2.6.2-23 C:\Users\Mashf\.gradle\caches\8.9\transforms\892e3fd629a9de58b521ed9ca2e94e50\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.android.foodorderapp-lifecycle-livedata-2.6.2-24 C:\Users\Mashf\.gradle\caches\8.9\transforms\9a5bf9dcab7fa51b415ac113be65a2c7\transformed\lifecycle-livedata-2.6.2\res
+com.android.foodorderapp-jetified-credentials-1.2.0-rc01-25 C:\Users\Mashf\.gradle\caches\8.9\transforms\9be6646fb11b5f3d6bcb8c0dbbf761d4\transformed\jetified-credentials-1.2.0-rc01\res
+com.android.foodorderapp-cardview-1.0.0-26 C:\Users\Mashf\.gradle\caches\8.9\transforms\af4492c15d6f705734c4d93896d40dfd\transformed\cardview-1.0.0\res
+com.android.foodorderapp-core-runtime-2.2.0-27 C:\Users\Mashf\.gradle\caches\8.9\transforms\b3d9a46b4f63545963883d1e2d83ae25\transformed\core-runtime-2.2.0\res
+com.android.foodorderapp-browser-1.4.0-28 C:\Users\Mashf\.gradle\caches\8.9\transforms\b6f57a40cbc58e1036a294f1cc473ac8\transformed\browser-1.4.0\res
+com.android.foodorderapp-transition-1.5.0-29 C:\Users\Mashf\.gradle\caches\8.9\transforms\b9ecfe11ff9e164533c0952b2e3c4662\transformed\transition-1.5.0\res
+com.android.foodorderapp-appcompat-1.7.0-30 C:\Users\Mashf\.gradle\caches\8.9\transforms\bdbb6dec4302e382eacb5138af3beb0b\transformed\appcompat-1.7.0\res
+com.android.foodorderapp-lifecycle-runtime-2.6.2-31 C:\Users\Mashf\.gradle\caches\8.9\transforms\c0ca7644a50ae2c1f8c58c3997aea24f\transformed\lifecycle-runtime-2.6.2\res
+com.android.foodorderapp-jetified-core-ktx-1.13.0-32 C:\Users\Mashf\.gradle\caches\8.9\transforms\c361ba0009f90cfa22f2a166eeb09400\transformed\jetified-core-ktx-1.13.0\res
+com.android.foodorderapp-drawerlayout-1.1.1-33 C:\Users\Mashf\.gradle\caches\8.9\transforms\c4b362c7e2db03266270944d3e9900a4\transformed\drawerlayout-1.1.1\res
+com.android.foodorderapp-jetified-play-services-auth-20.7.0-34 C:\Users\Mashf\.gradle\caches\8.9\transforms\d1b401caacca70f2b9927fc691e6b6ec\transformed\jetified-play-services-auth-20.7.0\res
+com.android.foodorderapp-lifecycle-livedata-core-2.6.2-35 C:\Users\Mashf\.gradle\caches\8.9\transforms\d8d52a692ae7268538db3a46122eada9\transformed\lifecycle-livedata-core-2.6.2\res
+com.android.foodorderapp-pngs-36 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\build\generated\res\pngs\debug
+com.android.foodorderapp-resValues-37 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\build\generated\res\resValues\debug
+com.android.foodorderapp-packageDebugResources-38 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.android.foodorderapp-packageDebugResources-39 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.android.foodorderapp-merged_res-40 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\build\intermediates\merged_res\debug
+com.android.foodorderapp-debug-41 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\src\debug\res
+com.android.foodorderapp-main-42 D:\CSE 464 (Mobile App)\final project\FoodApp-main\FoodOrderApp\app\src\main\res

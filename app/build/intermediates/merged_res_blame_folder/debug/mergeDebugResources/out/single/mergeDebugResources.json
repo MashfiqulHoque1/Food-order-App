@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_place_order_recycler_row.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/place_order_recycler_row.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/drawable_ic_add_circle.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/drawable/ic_add_circle.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.android.foodorderapp-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/drawable_ic_remove_circle.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/drawable/ic_remove_circle.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_activity_order_succeess.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/activity_order_succeess.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_activity_restaurant_menu.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_menu_recycler_row.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/menu_recycler_row.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.android.foodorderapp-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_recycler_row.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/recycler_row.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_activity_splash.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/raw_restaurent.json.flat",
+        "source": "com.android.foodorderapp-main-42:/raw/restaurent.json"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/layout_activity_place_your_order.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/layout/activity_place_your_order.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/drawable_button_bg.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/drawable/button_bg.xml"
+    },
+    {
+        "merged": "com.android.foodorderapp-debug-40:/drawable_ic_fsplash.xml.flat",
+        "source": "com.android.foodorderapp-main-42:/drawable/ic_fsplash.xml"
+    }
+]
